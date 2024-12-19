@@ -1,4 +1,4 @@
-<H1 align="center"> Sales Data Analysis Project </H1>H1>
+<H1 align="center"> Sales Data Analysis Project </H1>
 <div align="center">
   <img
 src="https://github.com/Kabirr2002/Sales_Analysis-SQL/blob/main/sql_logo.png"
@@ -16,7 +16,7 @@ This primary goal of this projects is to analyze sales data to identify trends, 
   - **Transform (T):** Renamed columns, split `Order Date` into separate date and time columns, and prepared the data for analysis.
 - **Load (L):** Loaded transformed data into Power BI for visualization and further analysis.
 
-  ### 2. Data Analysis
+### 2. Data Analysis
   - Identified top-selling products, analyzed total sales for each city, and calculated revenue metrics such as total revenue and profit margins.
   - Explored sales trends over time to understand seasonal variations and fluctuation in sales performamce.
  
