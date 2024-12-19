@@ -34,7 +34,7 @@ This primary goal of this projects is to analyze sales data to identify trends, 
 ## Tools Used
 - **Power BI:** Used for data visualization and analysis, creating interactive dashboards and reports. <br>
 - **SQL:** Employed for the ETL process, importing data into a database table and performing necessary transformations.<br>
-  [Link to SQL Queries](https://github.com/Kabir2002/Sales_Analysis/blob/main/SalesSQLQueries.sql)
+  [Link to SQL Queries]([https://github.com/Kabir2002/Sales_Analysis/blob/main/SalesSQLQueries.sql](https://github.com/Kabirr2002/Sales_Analysis-SQL/blob/main/SalesSQLQueries.sql))
 - **Various Visualizations:** Utilized different types of visualizations to present insights effectively, enhancing understanding and decision-making.
 - **Interactive Features:** Implemented slicers for dynamic data exploration, enabling users to filter data and uncover insights in real-time.
 
