@@ -32,8 +32,6 @@ This primary goal of this projects is to analyze sales data to identify trends, 
 - **Key Revenue Metrics:** Calculated total profit, sales quantity, and profit margin to assess overall financial performance.
 
 ## Tools Used
-- **Power BI:** Used for data visualization and analysis, creating interactive dashboards and reports. <br>
-[Link to Power Bi DashBoard](https://github.com/Kabirr2002/Sales_Analysis-SQL/blob/main/Sales_PB_Dashboard_.pbix).
 - **SQL:** Employed for the ETL process, importing data into a database table and performing necessary transformations.<br>
   [Link to SQL Queries](https://github.com/Kabirr2002/Sales_Analysis-SQL/blob/main/SalesSQLQueries.sql)
 - **Various Visualizations:** Utilized different types of visualizations to present insights effectively, enhancing understanding and decision-making.
